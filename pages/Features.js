@@ -62,7 +62,7 @@ const contact = () => {
     },
     {
       id: 8,
-      iconSrc: "/images/care/payment.png",
+      iconSrc: "/images/care/pay.png",
       title: "Secure Payments",
       description:
         "Ensure a secure and hassle-free payment process for patients by integrating Stripe, a trusted payment gateway catering to the unique financial requirements of the healthcare sector.",
